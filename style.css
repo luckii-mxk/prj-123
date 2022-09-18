@@ -1,0 +1,40 @@
+.btn-warning {
+    width: 100%;
+    margin-top: 0;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.b{
+    color: black !important;
+    font-size: 15px !important;
+}
+
+h3 {
+    font-size: 22px !important;
+}
+
+.footer {
+    background-color: gray;
+    padding: 12px;
+    color: white;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
+
+canvas {
+    border-color: white;
+    border-style: solid;
+    border-width: 10px;
+    background-color: grey;
+    border-radius: 30px;
+    box-shadow: black 5px 5px 7px;
+    margin-left: 300px;
+    position: fixed;
+    
+    
+}
+
+video {
+    float: left;
+}
